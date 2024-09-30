@@ -11,7 +11,7 @@ This is a web-based version of the classic Simon Game, where players test their 
 
 ## 🚀 Live Demo
 
-Check out the live demo of the game [here](#). (Add your hosted game link if available.)
+Check out the live demo of the game [here](#). (http://127.0.0.1:5501/index.html)
 
 ## 🛠️ Technologies Used
 
